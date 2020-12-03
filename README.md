@@ -9,10 +9,10 @@ https://adventofcode.com/2020
 I'm undecided. I'll update this when I pick something. Options:
 
 ```
-Scheme
 Common Lisp
 Rust
 OCaml
+Scheme (I'm slowly learning this working through SICP already...)
 ```
 
 # Notes
