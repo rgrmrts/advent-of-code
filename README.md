@@ -1,4 +1,4 @@
-# Advent of Code 2020
+# Advent of Code
 
 Repository for my code working through Advent of Code in the year of the Roni, 2020.
 
